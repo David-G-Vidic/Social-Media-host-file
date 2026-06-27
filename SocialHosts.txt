@@ -8,7 +8,7 @@
 # Extensions used to generate this file: social
 # Number of unique domains: 3,244
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-onFly/hosts
 # Project home page: https://github.com/StevenBlack/hosts
 # Project releases: https://github.com/StevenBlack/hosts/releases
 #
@@ -937,8 +937,8 @@
 0.0.0.0 mahindra.m.facebook.com
 0.0.0.0 mbasic.facebook.com
 0.0.0.0 meli.m.facebook.com
-0.0.0.0 messages-facebook.com
-0.0.0.0 messenger.com
+#0.0.0.0 messages-facebook.com
+#0.0.0.0 messenger.com
 0.0.0.0 mia1.fbcdn.net
 0.0.0.0 microsoft.m.facebook.com
 0.0.0.0 mietra-de.m.facebook.com
