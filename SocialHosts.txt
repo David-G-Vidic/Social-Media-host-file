@@ -1,4 +1,4 @@
-# Title: StevenBlack/hosts extension social
+# Title: StevenBlack/hosts extension social (David-Remix)
 #
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
