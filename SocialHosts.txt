@@ -8,7 +8,7 @@
 # Extensions used to generate this file: social
 # Number of unique domains: 3,244
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-onFly/hosts
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
 # Project releases: https://github.com/StevenBlack/hosts/releases
 #
